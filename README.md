@@ -1,3 +1,3 @@
 # HTML/CSS
-| chapter5 | ヘッダーとフッター |
+| chapter5 | header n footer |
 | - | - |
